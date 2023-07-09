@@ -9,7 +9,7 @@ apt upgrade
 
 ##############################################
 # Install core packages
-apt install -y sudo curl ufw openssh-server nano git
+apt install -y sudo curl ufw openssh-server nano git samba smbclient cifs-utils
 ##############################################
 
 
