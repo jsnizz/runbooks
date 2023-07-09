@@ -1,0 +1,6 @@
+sudo
+curl
+ufw
+openssh-server
+nano
+git
