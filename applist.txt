@@ -4,3 +4,6 @@ ufw
 openssh-server
 nano
 git
+samba
+smbclient
+cifs-utils
